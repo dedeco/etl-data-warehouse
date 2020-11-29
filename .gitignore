@@ -1,0 +1,27 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Unit tests / coverage reports
+.pytest_cache/
+
+# pyenv
+.python-version
+
+# Environments
+venv/
+
+# MacOs
+.DS_Store
+
+#IDE
+.idea
+
+.ipynb_checkpoints/
+
+/.blackbox/pubring.gpg~
+/.blackbox/pubring.kbx~
+/.blackbox/secring.gpg
+/dwh.cfg
